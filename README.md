@@ -1,2 +1,2 @@
 # quizizz-cheat-table
-easy cheat for quizizz
+cheat for quizizz, kinda hard to use
